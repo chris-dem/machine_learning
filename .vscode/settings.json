@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\decision_trees\\Cargo.toml"
+    ]
+}
