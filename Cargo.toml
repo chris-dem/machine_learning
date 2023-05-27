@@ -4,4 +4,5 @@ members = [
     "neural_network",
     "tools",
     "decision_trees",
+    "k_nn",
 ]
