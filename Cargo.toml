@@ -5,4 +5,5 @@ members = [
     "tools",
     "decision_trees",
     "k_nn",
+    "www",
 ]
