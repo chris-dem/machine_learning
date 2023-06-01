@@ -1,7 +1,6 @@
 use yew::prelude::*;
 use yew_router::prelude::*;
 
-use crate::home::Home;
 use crate::router::{switch, Route};
 
 #[function_component(App)]

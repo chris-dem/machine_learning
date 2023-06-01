@@ -1,5 +1,3 @@
-use std::fmt::Display;
-
 use crate::main_site::contents::main_content::MainContent;
 use yew::prelude::*;
 use yew_router::prelude::*;

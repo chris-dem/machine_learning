@@ -1,5 +1,6 @@
 #[allow(unused_imports)]
 use polars::prelude::*;
+// TODO change dataframe type to something more general
 
 pub trait SupervisedLearning {
     type Error;
